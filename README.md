@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwjeet</h1>
 <h3 align="center">I’m a developer working with Laravel, JavaScript, JQuery, React, and MySQL</h3>
 
-- 💬 Ask me about **NodeJs**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **bishwjitkumaraur@gmail.com**
 
